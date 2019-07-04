@@ -1,2 +1,2 @@
 # hello-world
-Repository to start using github
+I want to learn Github
